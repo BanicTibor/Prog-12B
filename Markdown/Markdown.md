@@ -5,8 +5,8 @@ FONTOS! Ez a markdown leírás a Github Markdown feldolgozójához készült, í
 
 Összeállította: [Banic Tibor](https://github.com/BanicTibor/)
 
-# Paragrafusok
-Új paragrafushoz két sor között hagyjunk egy üres sort.
+# Bekezdések
+Új bekezdéshez két sor között hagyjunk egy üres sort.
 
 # Sortörés
 Sortöréshez a sor végén hagyjunk 2 space-t, majd új sorban folytassuk a paragrafust. Másik lehetőség a `<br>` HTML-tag használata.
@@ -157,3 +157,6 @@ Sekció tartalma
 
 Sekció tartalma
 </details>
+
+# Vízszintes elválasztó vonal
+Vízszintes elválasztó vonal elhelyezéséhez egy sorban legalább 3 kötőjelet kell elhelyezni.
